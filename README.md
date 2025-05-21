@@ -74,7 +74,7 @@ Next Steps: Add a CLI or multilingual support.
 
 ## License:-
 
-MIT License. See LICENSE.
+MIT License. [https://github.com/fahad04code/TEXT-SUMMARIZATION-TOOL/blob/main/LICENSE](url)
 
 
 ## OUTPUT:-
