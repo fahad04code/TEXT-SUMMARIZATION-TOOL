@@ -5,7 +5,7 @@
 
 *NAME*: HASHMI SYED FAHAD
 
-*INTERN ID*: :CT08DL815
+*INTERN ID*: CT08DL815
 
 *DOMAIN*: ARTIFICIAL INTELLIGENCE
 
@@ -30,6 +30,14 @@ This script uses BART’s pre-trained capabilities to generate summaries of 50-1
 ## Lesson Learned :-
 
 A transformative experience emerged with this project after solving LSTM failures which had caused incorrect results through extensive training. The  pre-trained BART model brought about a groundbreaking moment by producing precise summaries through its default configuration. I acquired  practical experience with Hugging Face’s Transformers library by working with BartTokenizer to handle text input and BartForConditionalGeneration to produce summaries. The practice of adjusting parameters such as num_beams=4 and length_penalty=2.0 enabled me to achieve the right balance between concise brevity and clear communication which will benefit my  NLP work in the future.  The management of computer memory posed a recurring problem. My laptop with  1025 MB RAM capacity could not handle BART's 1-2 GB requirements so I deployed facebook/bart-base which uses 800 MB and experimented with shorter texts to maintain system performance. I improved my hardware optimization abilities through  practical experience which I now apply to real-world AI projects. The development of robust code marked a significant achievement as  I implemented input validation together with error handling which protected users from script crashes when dealing with missing texts.  The  experience of writing this README along with detailed code explanations helped me develop the ability to present complex technical concepts  in a way that would be understood by my peers. After summarizing an article about AI's practical applications  I discovered the strength of NLP which led me to develop research summary ideas.
+
+
+
+## Requirements:-
+
+1. torch>=1.9.0
+2. transformers>=4.20.0
+
 
 
 ## Setup and Usage :-
