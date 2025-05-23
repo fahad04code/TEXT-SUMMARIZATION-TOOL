@@ -57,11 +57,10 @@ pip install -r requirements.txt
 
 
 
-Clone and Run >
+Run >
 
 ```
 
-git clone https://github.com/your-username/bart-text-summarizer.git
 cd bart-text-summarizer
 python text_summarizer.py
 
