@@ -61,7 +61,6 @@ Run >
 
 ```
 
-cd bart-text-summarizer
 python text_summarizer.py
 
 ```
