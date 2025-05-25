@@ -42,14 +42,14 @@ A transformative experience emerged with this project after solving LSTM failure
 
 ## Setup and Usage:-
 
-Install Dependencies:
+Install Dependencies :
 
 ```
 
 pip install torch transformers
 ```
 
-Or use:
+Or use :
 
 ```
 pip install -r requirements.txt
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 
 
-Run:
+Run :
 
 ```
 
@@ -65,7 +65,7 @@ python text_summarizer.py
 
 ```
 
-Customize: Modify article in text_summarizer.py or import summarize_text >
+Customize: Modify article in text_summarizer.py or import summarize_text :
 
 ```
 
