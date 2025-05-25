@@ -1,4 +1,4 @@
-## TEXT-SUMMARIZATION-TOOL
++## TEXT-SUMMARIZATION-TOOL
 
 
 *COMPANY*: CODTECH IT SOLUTIONS
@@ -40,16 +40,16 @@ A transformative experience emerged with this project after solving LSTM failure
 
 
 
-## Setup and Usage :-
+## Setup and Usage:-
 
-Install Dependencies >
+Install Dependencies:
 
 ```
 
 pip install torch transformers
 ```
 
-Or use >
+Or use:
 
 ```
 pip install -r requirements.txt
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 
 
-Run >
+Run:
 
 ```
 
